@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GooCut-Come-Home</title>
+
+  <!--fonts-->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap" rel="stylesheet" />
+
+  <!-- feather Icons -->
+
+  <script src="https://unpkg.com/feather-icons"></script>
+
+  <!-- My Style-->
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+
+  <!--Navbar star-->
+  <div class="navbar-nav">
+    <nav class="navbar">
+      <a href="#" class="navbar-logo">Tukang-<span>Cukur</span>-Online</a>
+    </nav>
+  </div>
+
+
+  <!-- Hero Section start-->
+  <section class="hero" id="home">
+    <main class="content">
+      <h2> Anda Undang <span> Kami Datang! </span></h2>
+      <h3>
+        .Mari memulai memahami Style/gaya rambut anda dari sini.
+      </h3>
+
+      <h3>MEMPERKENALKAN</h3>
+      <h3>Kami tukang cukur online</h3>
+      <h3>siap membuat penampilan rambut anda semakin kece, badai, aduhai, semampai.</h3>
+      <h3>di mana maksud dan tujuan kami membuat web ini supaya anda semakin paham dengan gaya rambut anda</h3>
+      <h3>Bukankah Rambutmu Adalah Mahkotamu</h3>
+      <h3>hanya dengan satu klik perubahan gaya rambut anda akan terjadi</h3>
+
+      <h4>&#x2705;Chapster/tukang cukur sudah berpengalaman</h4>
+      <h4>&#x2705;Waktu dan tanggal di atur sesuai&sesuka anda</h4>
+      <h4>&#x2705;Harga standart indonesia </h4>
+      <h4>&#x2705;Style/model rambut sesuai permintaan anda</h4>
+      <a href="#" class="cta">Undang Sekarang!</a>
+    </main>
+  </section>
+
+  <!-- Hero Section end -->
+
+  <!--About Section start -->
+  <section id="about" class="about">
+    <h2><span>Tentang</span>Kami</h2>
+
+    <div class="row">
+      <div class="about-img">
+        <img src="img/contoh7.jpg" alt="" />
+      </div>
+      <div class="content">
+        <h3>Pernahkah di suatu hari anda sangat sulit mencari tukang potong rambut yang bisa di panggil kerumah?</h3>
+        <h3>Mungkin anda telah mengalami betapa bingungnya dalam menemukan seseorang yang tidak hanya memiliki skil
+          memotong rambut,tetapi juga
+          memiliki etos kerja yang profesional dan dapat mengikuti jadwal/waktu anda dengan tepat.Kualitas dan
+          kehandalan sangat penting dalam
+          merubah style rambut,perubahan dan kepuasan anda itu hanyalah bonus bagi kami.Dalam dunia yang penuh dengan
+          pilihan ,menemukan chapster
+          yang sesuai dengan kemauan Anda bisa menjadi tugas yang rumit bukan.
+        </h3>
+        <span>
+          <h2>.Jadikan Kami Hiarstylish pribadi anda</h2>
+          <h2>Dengan menjadikan kami sebagai tukang cukur langganan,maka ada banyak ke untungan yang akan anda
+            dapatkan
+          </h2>
+        </span>
+        <p>
+          .Ini adalah penawaran terbaik kami bagi anda yang mau memotong rambut tanpa susah payah keluar rumah atau
+          malas mengantre di tempat.
+        </p>
+        .Memotong rambut tidak perlu keluar rumah..??
+        <p>
+        <h2><span>EMANG BOLEH SEMUDAH ITU!?...</span></h2>
+        </p>
+        <a href="#" class="cta">Undang Sekarang!</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section end -->
+
+  <!-- Menu Section start -->
+  <section id="menu" class="menu">
+    <h2><span> Chapster </span> Cowok </h2>
+    <p>
+      Chapster kami sangat mengutamakan yang namanya kUalitas,dan pastinya sudah sangat berpengalaman di
+      bidang
+      potong rambut.
+    </p>
+    <p>
+      Tinggal sebut/tunjukan model rambutnya, pasti kami dengan cepat akan mengerti seperti apa yang anda
+      inginkan.
+    </p>
+    <div class="row">
+      <div class="menu-card">
+        <img src="img/foto11.jpg" alt="chapster" class="menu-card-img" />
+        <h3 class="menu-card-title">RIZAL</h3>
+        <p class="menu-card-price">IDR 65k</p>
+
+        <a href="#" class="cta">Undang Sekarang!</a>
+      </div>
+    </div>
+  </section>
+  <section id="menu" class="menu">
+    <p>
+      Chapster kami sangat mengutamakan yang namanya kualitas,dan pastinya sudah sangat berpengalaman di
+      bidang
+      potong rambut.
+    </p>
+    <p>
+      Tinggal sebut/tunjukan model rambutnya, pasti kami dengan cepat akan mengerti seperti apa yang anda
+      inginkan.
+    </p>
+
+    <div class="row">
+      <div class="menu-card">
+        <img src="img/contoh12.jpg" alt="chapster" class="menu-card-img" />
+        <h2>Chapster <span> Cewek </span></h2>
+        <h3 class="menu-card-title">chaps Wisnu</h3>
+        <p class="menu-card-price">IDR 75k</p>
+        <a href="#" class="cta">Undang Sekarang!</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Menu Section end -->
+
+  <!-- Contact Section start -->
+  <section id="contact" class="contact">
+    <h2><span>Lokasimu saat ini</span></h2>
+    <p>Mohon untuk memberikan keterangan alamat yang jelas/patokan.</p>
+    <div class="row">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126904.25537790271!2d106.70831249999999!3d-6.29550305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fab10419c095%3A0x8706481c2c4aafe4!2sTangerang%20Selatan%2C%20Kota%20Tangerang%20Selatan%2C%20Banten!5e0!3m2!1sid!2sid!4v1706529934875!5m2!1sid!2sid"
+        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="map"></iframe>
+      <form action="">
+        <div class="input-group">
+          <i data-feather="user"></i>
+          <input type="text" placeholder="nama">
+        </div>
+        <div class="input-group">
+          <i data-feather="mail"></i>
+          <input type="text" placeholder="email">
+        </div>
+        <div class="input-group">
+          <i data-feather="phone"></i>
+          <input type="text" placeholder="no hp">
+        </div>
+        <button type="submit" class="btn">kirim pesan</button>
+      </form>
+
+    </div>
+  </section>
+
+  <!-- Contact Section end -->
+
+  <!-- Footer start -->
+  <footer>
+    <div class="socials">
+      <a href="#"><i data-feather="instagram">
+        </i></a>
+      <a href="#"><i data-feather="twitter">
+        </i></a>
+      <a href="#"><i data-feather="facebook">
+        </i></a>
+    </div>
+    <div class="links">
+      <a href="#home">Home</a>
+      <a href="#about">Tentang Kami</a>
+      <a href="#menu">Menu</a>
+      <a href="#Contact">Kontak</a>
+    </div>
+    <div class="credit">
+      <p>Created by <a href=""></a>RIZAL
+        </a>. | &copy 2024.</p>
+    </div>
+  </footer>
+
+  <!-- Footer end -->
+
+  <!--feather Icons-->
+  <script>
+    feather.replace();
+  </script>
+
+  <!-- My Javasript -->
+  <script src="js/script.js"></script>
+</body>
+
+</html>
